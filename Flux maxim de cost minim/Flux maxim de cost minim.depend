@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1393243884 source:e:\algoritmi\flux maxim de cost minim\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	<queue>
+	<memory.h>
+

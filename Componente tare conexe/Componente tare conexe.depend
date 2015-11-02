@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1393152870 source:e:\algoritmi\componente tare conexe\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+

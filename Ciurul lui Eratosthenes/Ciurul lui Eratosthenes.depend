@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1393068475 source:e:\algoritmi\ciurul lui eratosthenes\main.cpp
+	<iostream>
+	<fstream>
+

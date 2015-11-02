@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393332626 source:e:\algoritmi\statistici de ordine\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392988035 source:e:\programare\euclid\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

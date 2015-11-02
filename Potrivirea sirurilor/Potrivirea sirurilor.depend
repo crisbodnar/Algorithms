@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392993702 source:e:\algoritmi\potrivirea sirurilor\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1393151826 source:e:\algoritmi\arbore partial de cost minim - prim\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	<queue>
+

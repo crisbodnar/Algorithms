@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1392992158 source:e:\algoritmi\roy-floyd\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+

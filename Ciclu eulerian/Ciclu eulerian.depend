@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1393245835 source:e:\algoritmi\ciclu eulerian\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<stack>
+

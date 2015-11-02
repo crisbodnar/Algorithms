@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1393082774 source:e:\algoritmi\cuplaj maxim in graf bipartit\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+

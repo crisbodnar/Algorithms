@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1393251551 source:e:\algoritmi\ciclu hamiltonian de cost minim\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<memory.h>
+

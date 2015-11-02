@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1392991531 source:e:\algoritmi\euclid extins\main.cpp
+	<iostream>
+	<fstream>
+

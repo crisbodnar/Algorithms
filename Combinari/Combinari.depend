@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393080990 source:e:\algoritmi\combinari\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

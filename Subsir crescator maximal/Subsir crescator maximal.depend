@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393065383 source:e:\algoritmi\subsir crescator maximal\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

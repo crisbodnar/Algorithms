@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1393067751 source:e:\algoritmi\algoritmul lui dijkstra\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	<queue>
+

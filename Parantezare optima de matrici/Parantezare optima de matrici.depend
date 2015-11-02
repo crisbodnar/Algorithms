@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1393249629 source:e:\algoritmi\parantezare optima de matrici\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+
